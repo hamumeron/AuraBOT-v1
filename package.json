@@ -1,0 +1,13 @@
+{
+  "name": "aura-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "fs-extra": "^11.2.0"
+  }
+}
